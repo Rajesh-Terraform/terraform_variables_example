@@ -1,3 +1,4 @@
-output "my_names" {
-  value = var.names
+output "name" {
+  value = var.name
+  
 }
