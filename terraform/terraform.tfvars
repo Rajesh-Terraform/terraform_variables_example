@@ -1,7 +1,4 @@
-name = "rajesh"
-
-name = "rajesh"
-
-name = "dhoni"
-
-
+names = [
+  "rajesh",
+  "dhoni"
+]

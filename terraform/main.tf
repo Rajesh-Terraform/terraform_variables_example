@@ -1,15 +1,3 @@
-output "name" {
-  value = var.name
-  
-}
-
-
-output "name" {
-  value = var.name
-  
-}
-
-output "name" {
-  value = var.name
-  
+output "my_names" {
+  value = var.names
 }

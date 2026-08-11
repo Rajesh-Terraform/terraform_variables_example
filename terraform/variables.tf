@@ -1,16 +1,16 @@
-variable "name" {
+variable "names" {
   type = string
   
 } 
 
 
-variable "name" {
+variable "names" {
   type = string
   
 }
 
 
-variable "name" {
+variable "names" {
   type = string
   
 }
